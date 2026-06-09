@@ -20,7 +20,7 @@ class Task(TaskBase):
 
     # This tells Pydantic to read data even if it's not a dict, but an ORM model
     class Config:
-        from_attributes = True 
+        orm_mode = True 
 
 # --- USER SCHEMAS ---
 
@@ -40,4 +40,4 @@ class User(UserBase):
     tasks: List[Task] = []
 
     class Config:
-        from_attributes = True
+        orm_mode = True
