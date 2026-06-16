@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=250&section=header&text=FastAPI%20Nexus&fontSize=80&fontAlignY=38&desc=High-Performance%20Task%20Manager&descAlignY=60&descAlign=50" alt="Header Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=250&section=header&text=FastAPI%20Task%20Manager&fontSize=65&fontAlignY=38&desc=Secure%20RESTful%20API%20Service&descAlignY=60&descAlign=50" alt="Header Banner">
 
 <h1>⚡ Secure RESTful API Service</h1>
 
@@ -49,7 +49,7 @@ The **FastAPI Task Manager** is a highly-optimized, secure backend service wrapp
       <p>Strict SQLAlchemy ORM filtering ensures users have zero-knowledge access to anything outside their own tasks.</p>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/nolan/64/monitor.png" alt="UI"/>
+      <img src="https://img.icons8.com/nolan/64/laptop.png" alt="UI"/>
       <h3>Minimal SaaS Aesthetic</h3>
       <p>A server-side rendered Jinja2 interface featuring a dynamic Dark/Light mode toggle powered by native CSS variables.</p>
     </td>
